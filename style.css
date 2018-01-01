@@ -959,7 +959,7 @@ Site Footer
   padding: 15px 0;
   text-align: center;
   clear: both;
-  display: none;
+  /* display: none; */
 }
 
 .site-footer p {
