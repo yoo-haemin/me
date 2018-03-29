@@ -696,7 +696,7 @@ Content Area
 
 .entry-content a,
 .entry-summary a {
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 .entry-content img.wp-post-image {
